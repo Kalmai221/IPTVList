@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="GBNews" tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/GB_News_logo.svg/200px-GB_News_logo.svg.png",GB News
-https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
+https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MrBean" tvg-name="Mr Bean" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/MrBeanLogo.svg/250px-MrBeanLogo.svg.png",Mr Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
